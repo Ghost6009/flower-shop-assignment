@@ -72,3 +72,8 @@ body{
 .featured-flowers{
     padding: 130px;
 }
+
+/* demo flower related styles */
+.demo-flowers{
+    display: flex;
+}
